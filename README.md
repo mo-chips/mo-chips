@@ -12,7 +12,7 @@ I am a **BSc IT (Computer Science & Informatics) Candidate** at the University o
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,cs,python,js,html,css,visualstudio" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,tailwind,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,sqlite,mysql,html,css,git,github,vscode" />
 </p>
 
 ---
