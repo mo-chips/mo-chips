@@ -10,7 +10,7 @@ I am a **BSc IT (Computer Science & Informatics) Candidate** at the University o
 
 ### 🛠 My Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,python,js,csharp,html,css,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,python,js,java,html,css,visualstudio" />
   <br/>
   <img src="https://skillicons.dev/icons?i=react,nodejs,sqlite,mysql,git,github,vscode" />
 </p>
